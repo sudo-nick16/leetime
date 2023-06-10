@@ -1,0 +1,13 @@
+{
+  "name": "leetime",
+  "version": "1.0.0",
+  "main": "src/content.ts",
+  "license": "MIT",
+  "scripts": {
+    "dev": "tsc -w"
+  },
+  "devDependencies": {
+    "@types/chrome": "^0.0.237",
+    "typescript": "^5.1.3"
+  }
+}
