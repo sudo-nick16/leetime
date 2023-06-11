@@ -2,7 +2,7 @@
 
 A simple timer for leetcode to avoid spending too much time on one problem.
 The existing ones didn't work or the ones that did didn't have the basic 
-thing that I wanted. This ones lacks lots of things too but this is all I 
+thing that I wanted. This one lacks a lot of things too but this is all I 
 could build in 3hrs.
 
 How to install?
